@@ -1,0 +1,18 @@
+﻿5 ERRORES CLÁSICOS EN UN PROYECTO DE SOFTWARE
+
+
+
+
+1. Motivación débil: Al tener trabajadores desmotivados, la productividad y la calidad de los proyectos están destinados a caer. Ya que son ellos quienes se encargan de que los proyectos salgan a flote y la falta de ánimo tiene una repercusión significativa en este proceso.
+
+
+2. Oficinas repletas y ruidosas: Al trabajar en malas condiciones como lo son la falta de silencio y privacidad, la productividad del trabajador disminuye al verse constantemente interrumpido por factores externos.
+
+
+3. Añadir mas personas a un proyecto retrasado: Aunque se podria creer que esta seria la mejor solucion para terminar un proyecto entre los plazos establecidos, al agregar personas que no tienen suficiente conocimiento en el proyecto (ya que no estan desde el pricipio) puede generar mas demoras, ya que se deben capacitar y poner al dia con las labores del proyecto; lo que posiblemente genere mas retrasos.
+
+
+4. Expectativas poco realistas: Se deben tener objetivos claros y trazables, no se puede esperar que con 2 desarrolladores junior un proyecto de gran tamaño salga a producción en 1 mes, o subestimar los precios reales de los proyectos. Por esto es mejor tener claridad de lo que se va hacer, estimando bien los posibles costos y el tiempo.
+
+
+5. Diseño inadecuado: Por razones de tiempo o por reducir gastos muchos proyectos no le dan la verdadera importancia que requiere la etapa de diseño. Saltarse esta etapa o hacerla de forma mediocre asegura un futuro fallo en el proyecto, ya que de esta etapa depende de cómo se va a realizar el trabajo.
